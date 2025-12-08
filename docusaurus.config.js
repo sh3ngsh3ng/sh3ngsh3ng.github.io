@@ -31,6 +31,7 @@ const config = {
   projectName: 'sh3ngsh3ng.github.io', // Usually your repo name.
   trailingSlash: false,
   onBrokenLinks: 'throw',
+  deploymentBranch: 'gh-pages',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
