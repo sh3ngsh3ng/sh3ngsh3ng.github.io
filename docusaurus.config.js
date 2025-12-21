@@ -79,7 +79,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo.png',
       colorMode: {
         respectPrefersColorScheme: true,
       },
@@ -87,7 +87,7 @@ const config = {
         title: 'Tech Nodes',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/icon.webp',
         },
         items: [
           {
@@ -138,7 +138,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Tech Nodes. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
