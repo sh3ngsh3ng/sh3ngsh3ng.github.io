@@ -101,7 +101,7 @@ const config = {
             to: '/docs/about-me', label: 'About me', position: 'right'
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/sh3ngsh3ng',
             label: 'GitHub',
             position: 'right',
           },
@@ -111,31 +111,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Notes',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Javascript',
+                to: '/docs/category/javascript',
               },
             ],
           },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
+          // {
+          //   title: 'Community',
+          //   items: [
+          //   ],
+          // },
           {
             title: 'More',
             items: [
@@ -145,7 +133,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/sh3ngsh3ng',
               },
             ],
           },
