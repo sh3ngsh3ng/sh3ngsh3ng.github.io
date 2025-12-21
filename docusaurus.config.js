@@ -98,6 +98,9 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'right' },
           {
+            to: '/docs/about-me', label: 'About me', position: 'right'
+          },
+          {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
