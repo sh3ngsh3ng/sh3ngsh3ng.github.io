@@ -96,6 +96,12 @@ const config = {
             position: 'left',
             label: 'Notes'
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'projectsSidebar',
+            position: 'left',
+            label: 'Projects'
+          },
           { to: '/blog', label: 'Blog', position: 'right' },
           {
             to: '/docs/about-me', label: 'About me', position: 'right'
